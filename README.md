@@ -26,11 +26,10 @@ Users should be able to:
 ### Links
 
 - Solution URL:
-  [https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-html-and-css-only-54leWxvD6g]
-  (https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-html-and-css-only-54leWxvD6g)
+  [https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-html-and-css-only-54leWxvD6g](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-html-and-css-only-54leWxvD6g)
+
 - Live Site URL:
-  [https://stat-preview-card-component-eosin.vercel.app/]
-  (https://stat-preview-card-component-eosin.vercel.app/)
+  [https://stat-preview-card-component-eosin.vercel.app/](https://stat-preview-card-component-eosin.vercel.app/)
 
 ## My process
 
